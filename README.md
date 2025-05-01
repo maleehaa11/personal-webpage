@@ -3,12 +3,13 @@
 
 [Link to live site here- 'this appears as lint to click']( https://'yourlivelink.com')
 
-![Am I responsive image](can include a path website image file stored in assets)
+
 
 ## Introduction
+The Daily Bite is an e-commerce website that
+gives you an insight on food preps, meal plans
+and recipes to fit your lifestyle.
 
-
-' Type your introduction here '
 
 ## User Experience (UX)
 
