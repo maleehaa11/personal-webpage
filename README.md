@@ -29,6 +29,7 @@
     2. Emma is she is an aspiring private chef; she is 22, no kids and taking a gap year at culinary school. She has a passion for cooking and likes to experiment with different ingredients. She aims to find new recipes       from all levels of cooking skills and improve her cooking skills to develop her own recipes
 
     How this website helps Emma meet her goals:
+  
     Skill Development: The website offers recipes at different difficulties, from beginner to expert. By offering a wide range of advanced skills,  it helps Emma to further develop her techniques and culinary skills.
     Encourages experimentation: The website offers a range of recipes from different cultures. For Emma, this is useful as she can incorporate these different flavours to advance the recipes she is making and infusion         different cultures together. 
     Inspires: The website offers a section where users can submit their own recipes. Emma can use this to gain recognition for her unique recipes, which can potentially help her to create her own cookbook using all her        own recipes and other people recipes as well. 
