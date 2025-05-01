@@ -16,7 +16,11 @@
 'write your users stories/tasks here'
 
 - **your persona1 story and tasks**
-    1. As a [persona], I [want to], [so that]
+    1. Stacey is a stay-at-home mother who is 28, married, with 3 kids, all under the ages of 6. 
+She always makes sure that her kids eat healthier and be able to produce them quickly
+Her goals are to be able to find quick and healthy recipes
+![image](https://github.com/user-attachments/assets/0996545e-9bfe-4bbd-8e5d-0871cc1e1a66)
+
         
     **Tasks**
 
