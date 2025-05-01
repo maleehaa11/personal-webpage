@@ -42,7 +42,7 @@ A responsive cooking website showcasing recipes and a sign-up page for culinary 
 
 ## Design Choices
 
-![color pallette](images/color-palette.png)
+
 
 - I will be using dark brown or black text against cream and light orange background colours.
   - This creates a warm, approachable aesthetic that reflects home-style cooking and food blogs.
