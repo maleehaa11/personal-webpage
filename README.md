@@ -21,6 +21,7 @@
     Her goals are to be able to find quick and healthy recipes.
     
     How this website benefits Stacey:
+  
     Prep time and Cook time: The recipe pages offer information about how long it will take to cook the meal, which allows her time to prep in plenty of time and gather the ingredients needed for the weekly shop before        potentially.  
     Dietary information: The recipe page also provide nutrition information, which includes the calories per serving. It also includes details on the dietary preference such as gluten free, low carbs etc. This is              important as the goal was to make sure the whole family is eating healthier. 
     
