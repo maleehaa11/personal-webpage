@@ -1,6 +1,6 @@
 # 'The Daily Bite' 
 
-(http://127.0.0.1:5500/index.html)
+(http://127.0.0.1:5500/index.html) - link to the homepage
 
 
 
@@ -68,9 +68,23 @@ A responsive cooking website showcasing recipes and a sign-up page for culinary 
 
 Screenshots of final layout:
 
-![Homepage Screenshot](images/final-home.png)
-![Recipe Page Screenshot](images/final-recipe.png)
-![Tips Page Screenshot](images/final-tips.png)
+**Homepage**
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/dbde8db8-208e-4272-a1c8-21f04d1e5da6" />
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/133cbe00-8c76-4baf-9042-7707580d60fc" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/9c34d733-4bb3-4b67-8287-87c1a97cd1a2" />
+
+**Recpie Page**
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/f866e76d-1cab-4c60-a54c-a4e17243d4b4" />
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/d1b950e4-0850-4d21-a37b-22e25efd9419" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/0d811428-e624-4e8e-a9ed-3430c83e6241" />
+
+**Sign Up Page**
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/4294babc-35f1-48e6-816e-5d66b89e68c1" />
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/d2d50fe5-be0e-4738-a9ff-a6b95136646b" />
+
+
 
 ---
 
@@ -81,9 +95,9 @@ Screenshots of final layout:
 - The site logo links back to the homepage.
 
 ### Header
-- Consistent branding and layout on all pages.
+- Consistent branding and layout on all pages as seen in the above screenshots.
 
-### Homepage (Recipes)
+### Homepage (Suggested/ Sponsered Recipes)
 - Main image with welcome text.
 - Responsive recipe cards grid.
 - Testimonial-style user reviews.
@@ -104,7 +118,7 @@ Screenshots of final layout:
 - [Figma](https://figma.com) – wireframing and design
 - [Google Fonts - Quicksand](https://fonts.google.com/specimen/Quicksand)
 - [VS Code](https://code.visualstudio.com/) – development
-- [W3C Validators](https://validator.w3.org/)
+- [W3C Validators](https://validator.w3.org/) - checking and testing
 
 
 ---
