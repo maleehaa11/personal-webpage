@@ -11,12 +11,8 @@ gives you an insight on food preps, meal plans
 and recipes to fit your lifestyle.
 
 
-## User Experience (UX)
-
 ### User Stories (US)
-'write your users stories/tasks here'
 
-- **your persona1 story and tasks**
     1. Stacey is a stay-at-home mother who is 28, married, with 3 kids, all under the ages of 6. 
     She always makes sure that her kids eat healthier and be able to produce them quickly
     Her goals are to be able to find quick and healthy recipes.
@@ -35,11 +31,7 @@ and recipes to fit your lifestyle.
     Encourages experimentation: The website offers a range of recipes from different cultures. For Emma, this is useful as she can incorporate these different flavours to advance the recipes she is making and infusion         different cultures together. 
     Inspires: The website offers a section where users can submit their own recipes. Emma can use this to gain recognition for her unique recipes, which can potentially help her to create her own cookbook using all her        own recipes and other people recipes as well. 
 
-
-   
-
-
-        
+  
     **Tasks**
 
   - 
