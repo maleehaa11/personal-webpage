@@ -1,0 +1,209 @@
+/* Base resets & typography */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background: #fafafa;
+}
+/* Header */
+header {
+  background: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+header h1 {
+  font-size: 1.75rem;
+  color: #a52a2a;
+}
+nav a {
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  color: #555;
+  position: relative;
+}
+nav a.active,
+nav a:hover {
+  color: #a52a2a;
+}
+nav a.active::after,
+nav a:hover::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background: #a52a2a;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+/* Hero */
+.hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.hero img {
+  width: 100%;
+  height: auto;  /* Ensure aspect ratio is maintained */
+  max-height: 400px; /* Set a max height to prevent image from being too large */
+  object-fit: cover; /* Ensures the image is cropped to fit the area */
+  border-radius: 10px; /* Optional: for rounded corners */
+}
+.hero-text {
+  position: absolute;
+  bottom: 1.5rem;
+  left: 1.5rem;
+  color: #fff;
+  font-size: 2.25rem;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+.recipe-img {
+  width: 50%;
+  height: auto;
+  max-width: 700px; /* Limit the width of the recipe image */
+  margin: 20px 0;
+  object-fit: cover; /* Crop the image to fit the container */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Section titles */
+.section-title {
+  font-size: 1.625rem;
+  margin: 2.5rem 0 1rem;
+  color: #a52a2a;
+}
+
+/* Cards grid */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+.card {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-decoration: none;
+  color: inherit;
+}
+.card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
+.card p {
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+/* Footer */
+footer {
+  background: #fff;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  border-top: 1px solid #eee;
+}
+
+/* Responsive tweaks */
+@media (max-width: 640px) {
+  .hero-text {
+    font-size: 1.75rem;
+    bottom: 1rem;
+    left: 1rem;
+  }
+  nav a {
+    margin-left: 1rem;
+    font-size: 0.95rem;
+  }
+  .section-title {
+    font-size: 1.375rem;
+  }
+}
+
+.submit-form {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  background-color: #f8f8f8;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.submit-form label {
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  font-size: 1rem;
+  color: #333;
+}
+
+.submit-form input,
+.submit-form textarea {
+  padding: 0.7rem;
+  font-size: 1rem;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  margin-top: 0.4rem;
+}
+
+.submit-form button {
+  background-color: #000;   /* black background */
+  color: #fff;              /* white text */
+  padding: 1rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.submit-form button:hover {
+  opacity: 0.8;  /* subtle hover effect */
+}
+
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.logo {
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  color: #333;
+}
+
+.logo:hover {
+  color: #e25d3c;
+}
+
+
