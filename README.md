@@ -1,7 +1,6 @@
 # 'The Daily Bite' 
 
-
-[Link to live site here- 'this appears as lint to click']( https://'yourlivelink.com')
+(http://127.0.0.1:5500/index.html)
 
 
 
@@ -36,127 +35,77 @@ and recipes to fit your lifestyle.
 
   - 
 
-### Design Choices -'change as per your needs include old and revised wireframes '
+# The Daily Bite 🍽️  
+A responsive cooking website showcasing recipes and a sign-up page for culinary enthusiasts.
 
-![color pallette]('path to the image file for your colour pallet here')
+---
 
-- I will be using ______  colour text against the ______background colours.
-  - 'you notes goes here '
+## Design Choices
 
-  - **typography**
-  - your notes goes here
+![color pallette](images/color-palette.png)
 
-  - **Structure**
-    - 'notes on any templates or framework used'
+- I will be using dark brown or black text against cream and light orange background colours.
+  - This creates a warm, approachable aesthetic that reflects home-style cooking and food blogs.
 
-  - **Imagery**
-    -  'notes on where you obtain the images for your website'
+### Typography
+- The site uses the Quicksand font from Google Fonts for its clean, friendly appearance.
+- Headings are bold and high-contrast, while body text is light and readable.
 
-  - **Wireframes**
-    - 'notes or why and what changes were made during revision'
+### Structure
+- The site was built with HTML and CSS.
+- No external frameworks were used to keep the structure lightweight and educational.
 
- ![View wireframes here]('path/link to the wireframes goes here')
+### Imagery
+- Images were sourced from royalty-free platforms on Google, or created using ChatGPT.
+- Avatar and review images are placeholders and can be swapped out with user-submitted content.
 
-## Development Process-  'finished product screenshots'
+### Wireframes
+- Initial wireframes were created in Figma, focusing on a minimalist 3-page layout.
+- Revisions were made to improve readability, add user-focused elements like testimonials, and adjust navigation to match user flow.
 
 
+## Development Process
 
-### Features
+Screenshots of final layout:
 
--
+![Homepage Screenshot](images/final-home.png)
+![Recipe Page Screenshot](images/final-recipe.png)
+![Tips Page Screenshot](images/final-tips.png)
 
-### navigation
+---
 
-- 
-### header
+## Features
 
--
+### Navigation
+- Clear navigation bar with links to Recipes, Cooking Tips, and Sign Up.
+- The site logo links back to the homepage.
 
-### webpage 1
+### Header
+- Consistent branding and layout on all pages.
 
-- 
-### webpage 2
+### Homepage (Recipes)
+- Main image with welcome text.
+- Responsive recipe cards grid.
+- Testimonial-style user reviews.
 
-###
+### Recipe Page
+- Consists of recipe of main image on homepage.
+- Includes time needed, ingredients and instructions on how to cook.
 
-### 
-
-### 
+### Sign-Up Page
+- Clean contact form styled with rounded edges.
+- Submit button styled in black with white text for contrast.
 
 ### Footer
+- Simple footer prompting users to follow on social media.
 
--
+## Frameworks, Libraries & Programs Used
 
-### Frameworks, Libraries & Programs Used
-
-- 
-
-## Deployment & Local Development
-
-### Deployment
-
-​- instruction goes here
-
-### Local Development
-
-- instruction goes here
+- [Figma](https://figma.com) – wireframing and design
+- [Google Fonts - Quicksand](https://fonts.google.com/specimen/Quicksand)
+- [VS Code](https://code.visualstudio.com/) – development
+- [W3C Validators](https://validator.w3.org/)
 
 
-## Testing
+---
 
-### Automated Testing
-
-#### W3C Validator
-
-- 'include images'
-
-#### CSS Jigsaw validator
-
-- 'include images here'
-
-#### Lighthouse 
-
-- **Desktop Report**
--include image/notes here
-- **Mobile Report**
--include image/notes here
-
-#### Wave??
-
-- 
-
-### Manual Testing
-
-#### Testing User Stories
-
-- notes goes here
-
-#### Full Testing
-
-Full testing was done on the following devices:
-
--
-
-Full testing was done on the following browsers:
-
-- 
-
-#### Full Page Testing
-
-### Bugs
-
-#### Solved bugs
-
-
-#### Known Bugs
-
-
-## Credits/ References 
-
-### Code Used
-
-### Content
-
-### Media
-
-### Research Material
