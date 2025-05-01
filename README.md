@@ -17,9 +17,24 @@
 
 - **your persona1 story and tasks**
     1. Stacey is a stay-at-home mother who is 28, married, with 3 kids, all under the ages of 6. 
-She always makes sure that her kids eat healthier and be able to produce them quickly
-Her goals are to be able to find quick and healthy recipes
-![image](https://github.com/user-attachments/assets/0996545e-9bfe-4bbd-8e5d-0871cc1e1a66)
+    She always makes sure that her kids eat healthier and be able to produce them quickly
+    Her goals are to be able to find quick and healthy recipes.
+    
+    How this website benefits Stacey:
+    Prep time and Cook time: The recipe pages offer information about how long it will take to cook the meal, which allows her time to prep in plenty of time and gather the ingredients needed for the weekly shop before        potentially.  
+    Dietary information: The recipe page also provide nutrition information, which includes the calories per serving. It also includes details on the dietary preference such as gluten free, low carbs etc. This is              important as the goal was to make sure the whole family is eating healthier. 
+    
+
+    2. Emma is she is an aspiring private chef; she is 22, no kids and taking a gap year at culinary school. She has a passion for cooking and likes to experiment with different ingredients. She aims to find new recipes       from all levels of cooking skills and improve her cooking skills to develop her own recipes
+
+    How this website helps Emma meet her goals:
+    Skill Development: The website offers recipes at different difficulties, from beginner to expert. By offering a wide range of advanced skills,  it helps Emma to further develop her techniques and culinary skills.
+    Encourages experimentation: The website offers a range of recipes from different cultures. For Emma, this is useful as she can incorporate these different flavours to advance the recipes she is making and infusion         different cultures together. 
+    Inspires: The website offers a section where users can submit their own recipes. Emma can use this to gain recognition for her unique recipes, which can potentially help her to create her own cookbook using all her        own recipes and other people recipes as well. 
+
+
+   
+
 
         
     **Tasks**
